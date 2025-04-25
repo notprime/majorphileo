@@ -1,0 +1,89 @@
+Degurba
+	0:  Water / Nodata
+	11: Very Low Density Rural
+	12: Low Density Rural
+	13: Rural Cluster
+	21: Suburban Or Peri-Urban
+	22: Semi-Dense Urban Cluster
+	23: Dense Urban Cluster
+	30: Urban Centre
+
+Water
+	0: Land
+	1: Water
+
+Terrain (Terrain22 https://gisstar.gsi.go.jp/terrain2021/)
+	0:  Water / Nodata
+	1:  Mountain Summit
+	2:  Cliff Slope
+	3:  Lower/Hilly Mountain
+	4:  Steep Hills/Dissected Cliff Slope
+	5:  Large Highland Slope (Steep)
+	6:  Large Highland Slope (Moderate)
+	7:  Mountain Valley Slope
+	8:  Moderate Hills
+	9:  Terrace/Fan/Plateau (High, Dissected, Sinks < 50%)
+	10: Terrace/Fan/Plateau (High, Dissected, Sinks >= 50%)
+	11: Terrace/Fan/Plateau (High, Surface, Sinks < 50%)
+	12: Terrace/Fan/Plateau (High, Surface, Sinks >= 50%)
+	13: Valley Slope (Sinks < 50%)
+	14: Valley Slope (Sinks >= 50%)
+	15: Terrace/Fan/Plateau (Low, Dissected, Sinks < 50%)
+	16: Terrace/Fan/Plateau (Low, Dissected, Sinks >= 50%)
+	17: Terrace/Fan/Plateau (Low, Surface, Sinks < 50%)
+	18: Terrace/Fan/Plateau (Low, Surface, Sinks >= 50%)
+	19: High Plain (Sinks < 50%)
+	20: High Plain (Sinks >= 50%)
+	21: Low Plain (Sinks < 50%)
+	22: Low Plain (Sinks >= 50)
+
+Land Cover
+	0:  Nodata
+	10: Tree Cover
+	20: Shrubland
+	30: Grassland
+	40: Cropland
+	50: Built-Up
+	60: Bare / Sparse Vegetation
+	70: Snow / Ice
+	80: Permanent Water Bodies
+	90: Herbaceous Wetland
+	95: Mangroves
+	100: Moss / Lichen
+
+Climate
+    0:  Water / Nodata
+    1:  Af   Tropical, Rainforest
+    2:  Am   Tropical, Monsoon
+    3:  Aw   Tropical, Savannah
+    4:  Bwh  Arid, Desert, Hot
+    5:  Bwk  Arid, Desert, Cold
+    6:  Bsh  Arid, Steppe, Hot
+    7:  Bsk  Arid, Steppe, Cold
+    8:  Csa  Temperate, Dry Summer, Hot Summer
+    9:  Csb  Temperate, Dry Summer, Warm Summer
+    10: Csc  Temperate, Dry Summer, Cold Summer
+    11: Cwa  Temperate, Dry Winter, Hot Summer
+    12: Cwb  Temperate, Dry Winter, Warm Summer
+    13: Cwc  Temperate, Dry Winter, Cold Summer
+    14: Cfa  Temperate, No Dry Season, Hot Summer
+    15: Cfb  Temperate, No Dry Season, Warm Summer
+    16: Cfc  Temperate, No Dry Season, Cold Summer
+    17: Dsa  Cold, Dry Summer, Hot Summer
+    18: Dsb  Cold, Dry Summer, Warm Summer
+    19: Dsc  Cold, Dry Summer, Cold Summer
+    20: Dsd  Cold, Dry Summer, Very Cold Winter
+    21: Dwa  Cold, Dry Winter, Hot Summer
+    22: Dwb  Cold, Dry Winter, Warm Summer
+    23: Dwc  Cold, Dry Winter, Cold Summer
+    24: Dwd  Cold, Dry Winter, Very Cold Winter
+    25: Dfa  Cold, No Dry Season, Hot Summer
+    26: Dfb  Cold, No Dry Season, Warm Summer
+    27: Dfc  Cold, No Dry Season, Cold Summer
+    28: Dfd  Cold, No Dry Season, Very Cold Winter
+    29: Et   Polar, Tundra
+    30: Ef   Polar, Frost
+
+Structures
+	0 - 100 average m2 per pixel
+
